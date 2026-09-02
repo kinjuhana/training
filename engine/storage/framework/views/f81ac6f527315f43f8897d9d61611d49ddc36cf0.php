@@ -1,0 +1,1 @@
+<?php /**PATH /home/inachan/public_html/4kwatchvid.fun/ads/foot.blade.php ENDPATH**/ ?>

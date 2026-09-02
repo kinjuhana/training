@@ -1,0 +1,1 @@
+<?php /**PATH /www/wwwroot/cineinc.biz/ads/head.blade.php ENDPATH**/ ?>
